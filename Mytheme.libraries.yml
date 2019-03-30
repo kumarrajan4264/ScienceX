@@ -1,11 +1,4 @@
-name: drupal
-type: theme
-description: This is my Drupal theme
-package: custom
-core: 8.x
-regions:
-  navbar: navigation
-  land: home
-  article: Page content
-  footer: Page footer
-
+style:
+  css:
+    theme:
+      style.css: {}
