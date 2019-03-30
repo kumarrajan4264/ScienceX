@@ -8,5 +8,5 @@ libraries:
 regions:
   navbar: navigation
   land: home
-  content: Page content
+  article: Page article
   footer: Page footer
